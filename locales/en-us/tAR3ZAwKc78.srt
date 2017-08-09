@@ -15,7 +15,7 @@ This is supposed to be a toaster, more of a representational drawing than an acc
 And a toaster, we can do more than one thing with a toaster.
 
 5
-00:00:22,612 --> 00:00:26,488
+00:00:18,740 --> 00:00:26,488
 We can put different things in it. We can toast bread, we can toast muffins, maybe it has some things we can use to change its behavior a little bit.
 
 6
@@ -115,7 +115,7 @@ The important thing about Python is that it gives us a nice high-level language 
 And that means instead of our program running directly on the computer, the programs we write will be an input to the Python program which runs on the computer.
 
 30
-00:02:28,791 --> 00:02:33,545
+00:02:28,491 --> 00:02:33,545
 What Python is is called an interpreter. That means it runs our programs, it interprets them, 
 
 31
